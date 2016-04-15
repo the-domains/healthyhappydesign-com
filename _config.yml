@@ -1,13 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.8236941
+  saturation: 0.9263059
   brandStrength: 0.4953358
-  lightness: 1
+  lightness: 0.9897388
   brandColors:
-    - '#FFFFFF'
-    - '#0D0D26'
-    - '#A2A1AE'
-    - '#64646F'
-  rhythmicContrast: 0.7835821
+    - '#FDFCFF'
+    - '#242230'
+    - '#4C4A53'
+    - '#A4A3AB'
+    - '#D0CFD8'
+  rhythmicContrast: 0.9645522
 typography_spectrum: 0.7798507
+layout_spectrum: 0
 name: HealthyHappyDesign.com
