@@ -1,0 +1,13 @@
+layout_spectrum: 0
+color:
+  saturation: 0.8236941
+  brandStrength: 0.4953358
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#0D0D26'
+    - '#A2A1AE'
+    - '#64646F'
+  rhythmicContrast: 0.7835821
+typography_spectrum: 0.7798507
+name: HealthyHappyDesign.com
